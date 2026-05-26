@@ -329,7 +329,7 @@ ufo avvistamento 2025, filmato alieno 2025, avvistamento italiano, alieni filmat
 | **Views totali** | +50% mese su mese | YouTube Analytics |
 | **CTR thumbnail** | >6% | YouTube Analytics |
 | **Watch time medio** | >50% durata video | YouTube Analytics |
-| **Ranking keyword** | Top 10 per 5+ keyword | TubeBuddy/VidIQ |
+| **Ranking keyword** | Top 10 per 5+ keyword | Nexlev/VidIQ |
 | **Iscritti** | +500/mese | YouTube Analytics |
 | **CTR search** | >2% | YouTube Analytics |
 
@@ -337,7 +337,7 @@ ufo avvistamento 2025, filmato alieno 2025, avvistamento italiano, alieni filmat
 
 | Tool | Uso | Costo |
 |------|-----|-------|
-| **TubeBuddy** | Keyword research, tags, thumbnail | Freemium |
+| **Nexlev** | Keyword research, tags, thumbnail | Freemium |
 | **VidIQ** | Analytics, competitor, trend | Freemium |
 | **Google Trends** | Keyword trend | Gratis |
 | **YouTube SearchSuggest** | Keyword autocomplete | Gratis |

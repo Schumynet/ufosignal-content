@@ -224,7 +224,7 @@ Vedi `UFOSIGNAL_SEO_COMPLETE.md` per la lista completa (50+ keyword)
 |------|-----|-------|
 | **Fliki** | Generazione video AI | Freemium |
 | **Canva** | Thumbnail, grafica | Freemium |
-| **TubeBuddy** | SEO YouTube | Freemium |
+| **Nexlev** | SEO YouTube | Freemium |
 | **VidIQ** | Analytics competitor | Freemium |
 | **Capcut** | Editing video | Gratis |
 | **ElevenLabs** | Voiceover premium | Pay |
@@ -261,7 +261,7 @@ MIT License - Libero uso per scopi educativi e di intrattenimento.
 - [Fliki.ai](https://fliki.ai) - Generazione video
 - [YouTube Studio](https://studio.youtube.com) - Gestione canale
 - [Canva](https://canva.com) - Grafica thumbnail
-- [TubeBuddy](https://tubebuddy.com) - SEO YouTube
+- [Nexlev](https://nexlev.io) - SEO YouTube
 
 ---
 
