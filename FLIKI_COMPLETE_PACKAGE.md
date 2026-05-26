@@ -170,7 +170,7 @@ A presto."
 
 ### 📌 TITOLO VIDEO (SEO):
 ```
-10 AVVISTAMENTI UFO 2025 🛸 Filmati che TI LASCIANO
+10 AVVISTAMENTI UFO 2025 - Filmati che TI LASCIANO
 ```
 
 ### 📌 DESCRIZIONE (5000 caratteri):

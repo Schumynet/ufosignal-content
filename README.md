@@ -112,7 +112,7 @@ ufosignal-content/
 
 #### TITOLO (copia dal file):
 ```
-10 AVVISTAMENTI UFO 2025 🛸 Filmati che TI LASCIANO
+10 AVVISTAMENTI UFO 2025 - Filmati che TI LASCIANO
 ```
 
 #### DESCRIZIONE (copia dal file):

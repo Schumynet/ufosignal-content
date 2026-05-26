@@ -164,7 +164,7 @@ VOICEOVER:
 Copia e incolla questo titolo EXATTO:
 
 ```
-10 AVVISTAMENTI UFO 2025 🛸 Filmati che TI LASCIANO
+10 AVVISTAMENTI UFO 2025 - Filmati che TI LASCIANO
 ```
 
 **Regole:**
