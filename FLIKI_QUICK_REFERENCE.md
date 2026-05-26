@@ -26,20 +26,20 @@ AUDIO: Musica misteriosa, tensione crescente
 
 Ma cosa stanno vedendo veramente le persone?
 
-Oggi ti mostrerò i 10 avvistamenti più scioccanti del 2025. E alcune di queste registrazioni... sono state confermate dal governo stesso."
+Oggi ti mostrerò i 10 avvistamenti più scioccanti del 2026. E alcune di queste registrazioni... sono state confermate dal governo stesso."
 
 ---
 
 ### CAPITOLO 1 [00:30 - 02:00]
 VISUAL: Città costiera italiana, notte - animazione luci nel cielo
 
-"Iniziamo con questo filmato straordinario. Questa registrazione è stata fatta da Marco, un pescatore di Ancona, la sera del 15 marzo 2025.
+"Iniziamo con questo filmato straordinario. Questa registrazione è stata fatta da Marco, un pescatore di Ancona, la sera del 15 marzo 2026.
 
 Guarda attentamente quello che vedi nel cielo... Una luce intensa che si muove in modo impossibile. Nessun aereo potrebbe fare questi movimenti. Nessun drone.
 
 L'oggetto è rimasto visibile per 23 minuti prima di sparire all'improvviso. Marco ha caricato il video su YouTube - ha raccolto oltre 500.000 visualizzazioni in una settimana."
 
-TESTO: "ANCONA, ITALIA - 15 MARZO 2025"
+TESTO: "ANCONA, ITALIA - 15 MARZO 2026"
 
 ---
 
@@ -54,7 +54,7 @@ Una famiglia ha ripreso questo triangolo nel cielo di Monaco. Triangolare. Silen
 
 Una coppia di turisti spagnoli ha catturato questo disco metallico sopra Barcellona. L'oggetto è sceso lentamente prima di accelerare verticalmente.
 
-Questo è probabilmente il filmato più chiaro del 2025. Un pilota commerciale ha registrato questo oggetto vicino alla costa australiana. L'avvistamento è stato ufficialmente riportato alle autorità aeronautiche."
+Questo è probabilmente il filmato più chiaro del 2026. Un pilota commerciale ha registrato questo oggetto vicino alla costa australiana. L'avvistamento è stato ufficialmente riportato alle autorità aeronautiche."
 
 TESTO: "5 CITTÀ. 5 AVVISTAMENTI. STESSA STORIA."
 
@@ -101,14 +101,14 @@ La prossima settimana pubblicherò un'analisi esclusiva sul caso UFO più discus
 
 ### TITOLO:
 ```
-10 AVVISTAMENTI UFO 2025 - Filmati che TI LASCIANO
+10 AVVISTAMENTI UFO 2026 - Filmati che TI LASCIANO
 ```
 
 ### DESCRIZIONE:
 ```
 📡 UFOSIGNAL - Il tuo segnale verso l'infinito
 
-In questo video ti mostro i 10 avvistamenti UFO più sorprendenti del 2025. Filmati reali, testimonianze e reazioni governative che ti faranno riconsiderare tutto ciò che sai.
+In questo video ti mostro i 10 avvistamenti UFO più sorprendenti del 2026. Filmati reali, testimonianze e reazioni governative che ti faranno riconsiderare tutto ciò che sai.
 
 ⏱️ TIMESTAMPS:
 00:00 - HOOK: Il cielo sta cambiando
@@ -129,12 +129,12 @@ Facebook: UFOSignal
 
 💬 Hai visto qualcosa di strano nel cielo? Commenta la tua storia!
 
-#UFO #avvistamenti2025 #alieni #filmati #italia #mondo #mistero #ufologia #nascondigoverno #nasa #pentagono #uap #segnale #extraterrestre #Roswell #Area51
+#UFO #avvistamenti2026 #alieni #filmati #italia #mondo #mistero #ufologia #nascondigoverno #nasa #pentagono #uap #segnale #extraterrestre #Roswell #Area51
 ```
 
 ### TAGS:
 ```
-ufo avvistamento 2025, filmato alieno 2025, avvistamento italiano, alieni filmati, ufo triangolare, oggetto non identificato, uap, mistero cielo, ufologia, testimonianza ufo, filmato reale, governo ufo, nasa ufo, pentagono ufo, avvistamento recente, luci nel cielo, fenomeno anomalo, extraterrestre, notizie ufo, curiosità alieni, caso documentato, analisi filmato, filmato hd, filmato 4k, testimonianze multiple, copertura mediatica, reazione governo, scienza ufo, investigazione, avvistamenti mondo, classificato, disclosure, alien technology, ufo sighting 2025, best ufo footage, real ufo encounter, avvistamento ufo italia, filmati alieni autentici, ufo breaking news, Pentagono UFO, NASA alieni, Roswell, Area 51, UAP report
+ufo avvistamento 2026, filmato alieno 2026, avvistamento italiano, alieni filmati, ufo triangolare, oggetto non identificato, uap, mistero cielo, ufologia, testimonianza ufo, filmato reale, governo ufo, nasa ufo, pentagono ufo, avvistamento recente, luci nel cielo, fenomeno anomalo, extraterrestre, notizie ufo, curiosità alieni, caso documentato, analisi filmato, filmato hd, filmato 4k, testimonianze multiple, copertura mediatica, reazione governo, scienza ufo, investigazione, avvistamenti mondo, classificato, disclosure, alien technology, ufo sighting 2026, best ufo footage, real ufo encounter, avvistamento ufo italia, filmati alieni autentici, ufo breaking news, Pentagono UFO, NASA alieni, Roswell, Area 51, UAP report
 ```
 
 ---
@@ -165,7 +165,7 @@ TESTO GRANDE: "10" (bianco, bold, 120px)
 TESTO: "AVVISTAMENTI" (bianco, bold)
 TESTO: "UFO" (verde #10B981, bold)
 TESTO: "PIÙ SCIOCCANTI" (bianco)
-TESTO: "DEL 2025" (verde, bold)
+TESTO: "DEL 2026" (verde, bold)
 
 ANGOLO ALTO DESTRA: UFO stilizzato con glow verde
 ANGOLO BASSO DESTRA: Logo UFOSIGNAL piccolo
@@ -181,13 +181,13 @@ NESSUN ALTRO ELEMENTO - MAX 6 PAROLE
 ```
 🔴 NUOVO VIDEO SU UFOSIGNAL!
 
-Ho analizzato i 10 avvistamenti UFO più scioccanti del 2025.
+Ho analizzato i 10 avvistamenti UFO più scioccanti del 2026.
 Filmati reali, testimonianze e... la reazione del governo.
 
 Non crederai al #7.
 
 Guarda il video completo 👇
-#UFO #alieni #2025 #mistero
+#UFO #alieni #2026 #mistero
 ```
 
 ### TIKTOK:

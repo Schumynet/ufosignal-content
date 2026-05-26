@@ -41,7 +41,7 @@ cd ufosignal-content
 
 1. Clicca "New Project"
 2. Seleziona "Video"
-3. Nomme il progetto: "UFO 10 Avvistamenti 2025"
+3. Nomme il progetto: "UFO 10 Avvistamenti 2026"
 
 ### 2.3 Impostare Configurazione
 
@@ -164,7 +164,7 @@ VOICEOVER:
 Copia e incolla questo titolo EXATTO:
 
 ```
-10 AVVISTAMENTI UFO 2025 - Filmati che TI LASCIANO
+10 AVVISTAMENTI UFO 2026 - Filmati che TI LASCIANO
 ```
 
 **Regole:**
@@ -179,7 +179,7 @@ Copia TUTTO questo blocco:
 ```markdown
 📡 UFOSIGNAL - Il tuo segnale verso l'infinito
 
-In questo video ti mostro i 10 avvistamenti UFO più sorprendenti del 2025. Filmati reali, testimonianze e reazioni governative che ti faranno riconsiderare tutto ciò che sai.
+In questo video ti mostro i 10 avvistamenti UFO più sorprendenti del 2026. Filmati reali, testimonianze e reazioni governative che ti faranno riconsiderare tutto ciò che sai.
 
 ⏱️ TIMESTAMPS:
 00:00 - HOOK: Il cielo sta cambiando
@@ -190,7 +190,7 @@ In questo video ti mostro i 10 avvistamenti UFO più sorprendenti del 2025. Film
 08:30 - Iscriviti e attiva la campanella!
 
 📌 Cosa trovi in questo video:
-• 10 avvistamenti UFO filmati nel 2025
+• 10 avvistamenti UFO filmati nel 2026
 • Testimonianze da tutto il mondo
 • Reazioni ufficiali NASA e Pentagono
 • Analisi scientifica dei filmati
@@ -209,7 +209,7 @@ Facebook: UFOSignal
 
 ⚠️ DISCLAIMER: Tutti i video sono per scopi educativi e di intrattenimento.
 
-#UFO #avvistamenti2025 #alieni #filmati #italia #mondo #mistero #ufologia #nascondigoverno #nasa #pentagono #uap #segnale #extraterrestre #Roswell #Area51
+#UFO #avvistamenti2026 #alieni #filmati #italia #mondo #mistero #ufologia #nascondigoverno #nasa #pentagono #uap #segnale #extraterrestre #Roswell #Area51
 ```
 
 ### 5.5 TAGS (OBBLIGATORIO)
@@ -217,7 +217,7 @@ Facebook: UFOSignal
 Copia TUTTI questi tag (separati da virgola):
 
 ```
-ufo avvistamento 2025, filmato alieno 2025, avvistamento italiano, alieni filmati, ufo triangolare, oggetto non identificato, uap, mistero cielo, ufologia, testimonianza ufo, filmato reale, governo ufo, nasa ufo, pentagono ufo, avvistamento recente, luci nel cielo, fenomeno anomalo, extraterrestre, notizie ufo, curiosità alieni, caso documentato, analisi filmato, filmato hd, filmato 4k, testimonianze multiple, copertura mediatica, reazione governo, scienza ufo, investigazione, avvistamenti mondo, classificato, disclosure, alien technology, ufo sighting 2025, best ufo footage, real ufo encounter, avvistamento ufo italia, filmati alieni autentici, ufo breaking news, Pentagono UFO, NASA alieni, Roswell, Area 51, UAP report
+ufo avvistamento 2026, filmato alieno 2026, avvistamento italiano, alieni filmati, ufo triangolare, oggetto non identificato, uap, mistero cielo, ufologia, testimonianza ufo, filmato reale, governo ufo, nasa ufo, pentagono ufo, avvistamento recente, luci nel cielo, fenomeno anomalo, extraterrestre, notizie ufo, curiosità alieni, caso documentato, analisi filmato, filmato hd, filmato 4k, testimonianze multiple, copertura mediatica, reazione governo, scienza ufo, investigazione, avvistamenti mondo, classificato, disclosure, alien technology, ufo sighting 2026, best ufo footage, real ufo encounter, avvistamento ufo italia, filmati alieni autentici, ufo breaking news, Pentagono UFO, NASA alieni, Roswell, Area 51, UAP report
 ```
 
 ### 5.6 THUMBNAIL
@@ -233,7 +233,7 @@ ufo avvistamento 2025, filmato alieno 2025, avvistamento italiano, alieni filmat
 4. Aggiungi testo:
    - "10" (grande, bianco, bold)
    - "AVVISTAMENTI UFO" 
-   - "2025" (verde `#10B981`)
+   - "2026" (verde `#10B981`)
 5. Aggiungi emoji 🔴 in alto a sinistra
 6. Esporta come JPG
 
@@ -270,23 +270,23 @@ Clicca il pulsante **"Pubblica"** o **"Pubblica ora"**
 ```
 🔴 NUOVO VIDEO! 
 
-10 avvistamenti UFO più scioccanti del 2025.
+10 avvistamenti UFO più scioccanti del 2026.
 Filmati reali che il governo vorrebbe nascondere.
 
 Guarda ora 👇
 [LINK VIDEO]
-#UFO #alieni #2025
+#UFO #alieni #2026
 ```
 
 **Post Instagram:**
 ```
-🔍 Gli avvistamenti UFO sono aumentati del 300% nel 2025.
+🔍 Gli avvistamenti UFO sono aumentati del 300% nel 2026.
 
 Il nuovo video di UFOSIGNAL svela tutto.
 
 Link in bio 👆
 
-#UFO #extraterrestre #mistero #2025
+#UFO #extraterrestre #mistero #2026
 ```
 
 **Post TikTok:**
@@ -386,5 +386,5 @@ Dopo il primo video, continua con:
 
 ---
 
-*📋 GUIDA CREATA: Gennaio 2025*
+*📋 GUIDA CREATA: Gennaio 2026*
 *🚀 UFOSIGNAL - Il tuo segnale verso l'infinito*

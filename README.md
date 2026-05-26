@@ -112,14 +112,14 @@ ufosignal-content/
 
 #### TITOLO (copia dal file):
 ```
-10 AVVISTAMENTI UFO 2025 - Filmati che TI LASCIANO
+10 AVVISTAMENTI UFO 2026 - Filmati che TI LASCIANO
 ```
 
 #### DESCRIZIONE (copia dal file):
 ```
 📡 UFOSIGNAL - Il tuo segnale verso l'infinito
 
-In questo video ti mostro i 10 avvistamenti UFO più sorprendenti del 2025. Filmati reali, testimonianze e reazioni governative.
+In questo video ti mostro i 10 avvistamenti UFO più sorprendenti del 2026. Filmati reali, testimonianze e reazioni governative.
 
 ⏱️ TIMESTAMPS:
 00:00 - HOOK: Il cielo sta cambiando
@@ -133,12 +133,12 @@ In questo video ti mostro i 10 avvistamenti UFO più sorprendenti del 2025. Film
 👉 https://www.youtube.com/channel/UC...@UFOSIGNAL
 🔔 Attiva la campanella per non perdere nessun avvistamento!
 
-#UFO #avvistamenti2025 #alieni #filmati #italia #mondo #mistero #ufologia
+#UFO #avvistamenti2026 #alieni #filmati #italia #mondo #mistero #ufologia
 ```
 
 #### TAGS (copia dal file):
 ```
-ufo avvistamento 2025, filmato alieno 2025, avvistamento italiano, alieni filmati, ufo triangolare, oggetto non identificato, uap, mistero cielo, ufologia, testimonianza ufo, filmato reale, governo ufo, nasa ufo, pentagono ufo, avvistamento recente, extraterrestre, notizie ufo, curiosità alieni, caso documentato, disclosure
+ufo avvistamento 2026, filmato alieno 2026, avvistamento italiano, alieni filmati, ufo triangolare, oggetto non identificato, uap, mistero cielo, ufologia, testimonianza ufo, filmato reale, governo ufo, nasa ufo, pentagono ufo, avvistamento recente, extraterrestre, notizie ufo, curiosità alieni, caso documentato, disclosure
 ```
 
 ### FASE 7: CARICARE THUMBNAIL
@@ -184,7 +184,7 @@ ufo avvistamento 2025, filmato alieno 2025, avvistamento italiano, alieni filmat
 
 | Keyword | Priorità |
 |---------|----------|
-| avvistamento ufo 2025 | ⭐⭐⭐⭐⭐ |
+| avvistamento ufo 2026 | ⭐⭐⭐⭐⭐ |
 | filmato alieno | ⭐⭐⭐⭐⭐ |
 | ufo italia | ⭐⭐⭐⭐ |
 | alieni esistono | ⭐⭐⭐⭐ |
@@ -194,7 +194,7 @@ ufo avvistamento 2025, filmato alieno 2025, avvistamento italiano, alieni filmat
 
 | Keyword | Priorità |
 |---------|----------|
-| roswell 2025 | ⭐⭐⭐ |
+| roswell 2026 | ⭐⭐⭐ |
 | area 51 | ⭐⭐⭐ |
 | nasa alieni | ⭐⭐⭐ |
 | pentagono ufo | ⭐⭐⭐ |
@@ -207,7 +207,7 @@ Vedi `UFOSIGNAL_SEO_COMPLETE.md` per la lista completa (50+ keyword)
 
 | Settimana | Video | Formato |
 |-----------|-------|---------|
-| 1 | 10 Avvistamenti UFO 2025 | Long 10min |
+| 1 | 10 Avvistamenti UFO 2026 | Long 10min |
 | 2 | UFO in Italia: casi principali | Long 12min |
 | 3 | Breaking: nuovo avvistamento | Short 30s |
 | 4 | Perché governo nasconde UFO | Long 15min |
