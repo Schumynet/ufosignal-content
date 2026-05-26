@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- UFOSIGNAL LOGO - Stile Ali Della Fenice -->
-<!-- Nero e Oro Professionale -->
+<!-- UFOSIGNAL LOGO - ESATTA COPIA ALI DELLA FENICE STYLE -->
+<!-- SFONDO BIANCO, TESTO ORO/AMBRA, CERCHIO NERO -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
   <defs>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+    <!-- Gradiente oro/ambra per il testo -->
+    <linearGradient id="goldText" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#D4A81D"/>
+      <stop offset="50%" style="stop-color:#FFD700"/>
+      <stop offset="100%" style="stop-color:#B8860B"/>
+    </linearGradient>
+    
+    <!-- Gradiente scuro per elementi -->
+    <linearGradient id="darkFill" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#2C1810"/>
+      <stop offset="100%" style="stop-color:#1A0F0A"/>
+    </linearGradient>
+    
+    <!-- Filtro glow oro -->
+    <filter id="goldGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
       <feMerge>
         <feMergeNode in="coloredBlur"/>
         <feMergeNode in="SourceGraphic"/>
@@ -12,52 +26,49 @@
     </filter>
   </defs>
   
-  <!-- CERCHIO NERO - SFONDO -->
-  <circle cx="400" cy="400" r="380" fill="#0a0a0a"/>
+  <!-- SFONDO BIANCO/LIGHT -->
+  <rect x="0" y="0" width="800" height="800" fill="#F5F5F0"/>
   
-  <!-- CERCHIO NERO INTERMEDIO -->
-  <circle cx="400" cy="400" r="375" fill="#18181b"/>
+  <!-- CERCHIO NERO ESTERNO (come Ali Della Fenice) -->
+  <circle cx="400" cy="400" r="360" fill="url(#darkFill)"/>
   
-  <!-- BORDO DORATO ESTERNO (multi-layer glow) -->
-  <circle cx="400" cy="400" r="395" fill="none" stroke="#D4A81D" stroke-width="1" opacity="0.2"/>
-  <circle cx="400" cy="400" r="390" fill="none" stroke="#D4A81D" stroke-width="2" opacity="0.4"/>
-  <circle cx="400" cy="400" r="385" fill="none" stroke="#FFD700" stroke-width="4"/>
-  <circle cx="400" cy="400" r="380" fill="none" stroke="#D4A81D" stroke-width="2"/>
+  <!-- CERCHIO NERO INTERNO (più scuro) -->
+  <circle cx="400" cy="400" r="340" fill="#1A0F0A"/>
   
-  <!-- CERCHIO INTERNO SOTTILE -->
-  <circle cx="400" cy="400" r="372" fill="none" stroke="#8B5A00" stroke-width="1" opacity="0.5"/>
+  <!-- BORDO INTERNO SOTTILE (marrone scuro) -->
+  <circle cx="400" cy="400" r="335" fill="none" stroke="#3D2314" stroke-width="2"/>
   
-  <!-- UFO DISCO PRINCIPALE (scuro) -->
-  <ellipse cx="400" cy="455" rx="90" ry="25" fill="#0f0f0f"/>
+  <!-- UFO DISCO (scuro con bordo oro) -->
+  <ellipse cx="400" cy="470" rx="100" ry="30" fill="#0D0806"/>
   
   <!-- BORDO ORO UFO DISCO -->
-  <ellipse cx="400" cy="455" rx="90" ry="25" fill="none" stroke="#D4A81D" stroke-width="2"/>
+  <ellipse cx="400" cy="470" rx="100" ry="30" fill="none" stroke="url(#goldText)" stroke-width="3"/>
   
-  <!-- UFO CUPOLA (dorata) -->
-  <ellipse cx="400" cy="415" rx="40" ry="50" fill="#D4A81D"/>
+  <!-- UFO CUPOLA (oro/ambra) -->
+  <ellipse cx="400" cy="420" rx="50" ry="65" fill="url(#goldText)"/>
   
-  <!-- UFO LUCE SULLA CUPOLA -->
-  <ellipse cx="400" cy="395" rx="20" ry="15" fill="#FFD700" opacity="0.6"/>
+  <!-- LUCE SULLA CUPOLA -->
+  <ellipse cx="400" cy="390" rx="25" ry="18" fill="#FFE4B5" opacity="0.7"/>
   
-  <!-- UFO CHICCHI (3 ovali dorati) -->
-  <ellipse cx="358" cy="460" rx="10" ry="14" fill="#D4A81D"/>
-  <ellipse cx="400" cy="463" rx="10" ry="14" fill="#D4A81D"/>
-  <ellipse cx="442" cy="460" rx="10" ry="14" fill="#D4A81D"/>
+  <!-- UFO CHICCHI (3 ovali oro) -->
+  <ellipse cx="355" cy="478" rx="12" ry="18" fill="url(#goldText)"/>
+  <ellipse cx="400" cy="482" rx="12" ry="18" fill="url(#goldText)"/>
+  <ellipse cx="445" cy="478" rx="12" ry="18" fill="url(#goldText)"/>
   
-  <!-- TESTO UFO - Arco da 8 o'clock verso 6 -->
-  <text fill="#D4A81D" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="58" filter="url(#glow)">
+  <!-- TESTO UFO - Arco superiore sinistro (da 8 verso 6) -->
+  <text fill="url(#goldText)" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="55" filter="url(#goldGlow)">
     <textPath href="#arcUFO" startOffset="2%">UFO</textPath>
   </text>
   
-  <!-- TESTO SIGNAL - Arco da 6 verso 4 o'clock -->
-  <text fill="#D4A81D" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="58" filter="url(#glow)">
-    <textPath href="#arcSIGNAL" startOffset="18%">SIGNAL</textPath>
+  <!-- TESTO SIGNAL - Arco verso il basso (da 6 verso 4) -->
+  <text fill="url(#goldText)" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="55" filter="url(#goldGlow)">
+    <textPath href="#arcSIGNAL" startOffset="15%">SIGNAL</textPath>
   </text>
   
-  <!-- DEFINIZIONE ARCHI -->
-  <!-- Arco UFO: ore 8 (150°) -> ore 6 (90°) -->
-  <path id="arcUFO" d="M 180,400 A 220,220 0 0,1 400,620" fill="none"/>
+  <!-- DEFINIZIONE ARCHI - POSIZIONATI VICINO AL BORDO INTERNO -->
+  <!-- Arco UFO: da 8 o'clock verso 6 (semicerchio sinistro) -->
+  <path id="arcUFO" d="M 170,400 A 230,230 0 0,1 400,630" fill="none"/>
   
-  <!-- Arco SIGNAL: ore 6 (90°) -> ore 4 (30°) -->
-  <path id="arcSIGNAL" d="M 400,620 A 220,220 0 0,1 620,400" fill="none"/>
+  <!-- Arco SIGNAL: da 6 verso 4 (semicerchio destro) -->
+  <path id="arcSIGNAL" d="M 400,630 A 230,230 0 0,1 630,400" fill="none"/>
 </svg>
