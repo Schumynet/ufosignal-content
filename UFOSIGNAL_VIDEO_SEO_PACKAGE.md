@@ -7,7 +7,7 @@
 
 ### 🎯 TITOLO SEO (100% ottimizzato)
 ```
-10 AVVISTAMENTI UFO PIÙ SORPRENDENTI DEL 2025 👽 Filmati Reali che Ti Lasceranno Senza Parole
+10 AVVISTAMENTI UFO 2025 🛸 Filmati che TI LASCIANO
 ```
 
 ### 🖼️ THUMBNAIL (1280x720)
